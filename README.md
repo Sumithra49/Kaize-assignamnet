@@ -3,7 +3,11 @@
 
 A powerful SaaS platform designed for marketing agencies to manage and analyze lead generation across multiple channels. Built with React, Node.js, and real-time data capabilities.
 
+
 ![LeadPulse Dashboard](https://images.pexels.com/photos/7681091/pexels-photo-7681091.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+# deployment link
+https://kaize-assignamnet.vercel.app/
 
 ## Features
 
@@ -107,6 +111,27 @@ leadpulse/
 
 - `new-lead` - Emitted when a new lead is captured
 - `campaign-update` - Emitted when campaign metrics update
+ # Dashboard
+ ![image](https://github.com/user-attachments/assets/689283d9-52a9-470e-84e3-88b21190dab8)
+ ![image](https://github.com/user-attachments/assets/20f9fdf8-bf01-4776-a6d1-bae7542e553f)
+ # Campaingn
+ ![image](https://github.com/user-attachments/assets/f3461872-a6ff-43b5-8302-611367d06515)
+ # Lead
+ ![image](https://github.com/user-attachments/assets/ada126fa-aa3b-4ed7-9641-2ffb2a403fbd)
+ # Settings
+ ![image](https://github.com/user-attachments/assets/dd6d9ff7-dc06-4ba0-a322-9f9e72ecb137)
+ # Notification
+ ![image](https://github.com/user-attachments/assets/48a1fa83-985e-44f9-b32d-afd354266552)
+ # integration
+ ![image](https://github.com/user-attachments/assets/b4900acc-fd61-4517-be83-591e5381ec85)
+
+
+
+
+
+
+
+  
 
 ## Contributing
 
